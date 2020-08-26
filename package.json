@@ -11,8 +11,6 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "bootstrap": "lerna bootstrap",
-    "version": "lerna version",
     "run:module-a": "node ./module-a/index.js",
     "run:module-b": "node ./module-b/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
