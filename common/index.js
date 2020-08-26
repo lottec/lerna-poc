@@ -1,3 +1,3 @@
-const foo = "bar";
+const foo = "baz";
 
 module.exports = { foo };
