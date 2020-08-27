@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/ianlamb/lerna-poc/compare/v1.1.1...v1.2.0) (2020-08-27)
+
+
+### Features
+
+* test feature change ([db224a3](https://github.com/ianlamb/lerna-poc/commit/db224a30975abf2f864f0f3402cf97638ac8b1f7))
+
+
+
+
+
 ## [1.1.1](https://github.com/ianlamb/lerna-poc/compare/v1.1.0...v1.1.1) (2020-08-27)
 
 **Note:** Version bump only for package module-b
