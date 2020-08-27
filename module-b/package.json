@@ -1,10 +1,10 @@
 {
   "name": "module-b",
-  "version": "1.2.0",
+  "version": "1.2.1-my-feature.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@ianlamb/common": "^1.1.1",
+    "@ianlamb/common": "^1.2.1-my-feature.0",
     "lodash": "^4.17.20"
   }
 }
