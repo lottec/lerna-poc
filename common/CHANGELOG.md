@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/lottec/lerna-poc/compare/v1.2.0...v1.3.0) (2020-09-30)
+
+
+### Bug Fixes
+
+* back to bar ([dc0f74a](https://github.com/lottec/lerna-poc/commit/dc0f74a3fb9abeece12060548adc44d9b83c1281))
+
+
+
+
+
 ## [1.1.1](https://github.com/ianlamb/lerna-poc/compare/v1.1.0...v1.1.1) (2020-08-27)
 
 
